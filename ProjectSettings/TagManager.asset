@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Tower
+  - "V\xE4gg"
+  - Sound
+  - Money
+  - diod
+  - batteru
+  - hp
+  - defeat
+  - bullet
   layers:
   - Default
   - TransparentFX

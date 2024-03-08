@@ -1,0 +1,539 @@
+fileFormatVersion: 2
+guid: 1a1ae44fe11fa29499fae9c32ce71f81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5102814732405217026
+    second: "settings tit\xF6e 3_0"
+  - first:
+      213: -3666190174818072951
+    second: "settings tit\xF6e 3_1"
+  - first:
+      213: 1690571031653015147
+    second: "settings tit\xF6e 3_2"
+  - first:
+      213: 6102432326646799380
+    second: "settings tit\xF6e 3_3"
+  - first:
+      213: -5312138269884818902
+    second: "settings tit\xF6e 3_4"
+  - first:
+      213: -426012902713135634
+    second: "settings tit\xF6e 3_5"
+  - first:
+      213: 8070248556313881008
+    second: "settings tit\xF6e 3_6"
+  - first:
+      213: -1634359570704303943
+    second: "settings tit\xF6e 3_7"
+  - first:
+      213: 4390822997682829345
+    second: "settings tit\xF6e 3_8"
+  - first:
+      213: 6987854601570607929
+    second: "settings tit\xF6e 3_9"
+  - first:
+      213: 3582735762284805843
+    second: "settings tit\xF6e 3_10"
+  - first:
+      213: -603000467126254106
+    second: "settings tit\xF6e 3_11"
+  - first:
+      213: -4874945531223122615
+    second: "settings tit\xF6e 3_12"
+  - first:
+      213: 6976238899103031419
+    second: "settings tit\xF6e 3_13"
+  - first:
+      213: -807207346193799109
+    second: "settings tit\xF6e 3_14"
+  - first:
+      213: -5304186807978929792
+    second: "settings tit\xF6e 3_15"
+  - first:
+      213: 339592614372288049
+    second: "settings tit\xF6e 3_16"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "settings tit\xF6e 3_0"
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 97
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20794a796f6d0d640800000000000000
+      internalID: 5102814732405217026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "settings tit\xF6e 3_1"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 115
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98601f6d5731f1dc0800000000000000
+      internalID: -3666190174818072951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "settings tit\xF6e 3_2"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 30
+        width: 73
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e5e31756d167710800000000000000
+      internalID: 1690571031653015147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "settings tit\xF6e 3_3"
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 30
+        width: 55
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c94a77ed130b450800000000000000
+      internalID: 6102432326646799380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "settings tit\xF6e 3_4"
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 74
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ad1c1736e7746b0800000000000000
+      internalID: -5312138269884818902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "settings tit\xF6e 3_5"
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 75
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedec08a58f761af0800000000000000
+      internalID: -426012902713135634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "settings tit\xF6e 3_6"
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 76
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9a230dd484fff60800000000000000
+      internalID: 8070248556313881008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "settings tit\xF6e 3_7"
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 105
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8f8e031a69159e0800000000000000
+      internalID: -1634359570704303943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "settings tit\xF6e 3_8"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 89
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1283088b0465fec30800000000000000
+      internalID: 4390822997682829345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "settings tit\xF6e 3_9"
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 78
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933e1b4acb8d9f060800000000000000
+      internalID: 6987854601570607929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "settings tit\xF6e 3_10"
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 74
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3def213913f68b130800000000000000
+      internalID: 3582735762284805843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "settings tit\xF6e 3_11"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 19
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e58b8d1546b1a7f0800000000000000
+      internalID: -603000467126254106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "settings tit\xF6e 3_12"
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 31
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d51103ed6b85cb0800000000000000
+      internalID: -4874945531223122615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "settings tit\xF6e 3_13"
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 30
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b706c49215490d060800000000000000
+      internalID: 6976238899103031419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "settings tit\xF6e 3_14"
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 30
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38680602393cc4f0800000000000000
+      internalID: -807207346193799109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "settings tit\xF6e 3_15"
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 35
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0815a10733eb366b0800000000000000
+      internalID: -5304186807978929792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "settings tit\xF6e 3_16"
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 13
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136a10cfea976b400800000000000000
+      internalID: 339592614372288049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "settings tit\xF6e 3_0": 5102814732405217026
+      "settings tit\xF6e 3_1": -3666190174818072951
+      "settings tit\xF6e 3_10": 3582735762284805843
+      "settings tit\xF6e 3_11": -603000467126254106
+      "settings tit\xF6e 3_12": -4874945531223122615
+      "settings tit\xF6e 3_13": 6976238899103031419
+      "settings tit\xF6e 3_14": -807207346193799109
+      "settings tit\xF6e 3_15": -5304186807978929792
+      "settings tit\xF6e 3_16": 339592614372288049
+      "settings tit\xF6e 3_2": 1690571031653015147
+      "settings tit\xF6e 3_3": 6102432326646799380
+      "settings tit\xF6e 3_4": -5312138269884818902
+      "settings tit\xF6e 3_5": -426012902713135634
+      "settings tit\xF6e 3_6": 8070248556313881008
+      "settings tit\xF6e 3_7": -1634359570704303943
+      "settings tit\xF6e 3_8": 4390822997682829345
+      "settings tit\xF6e 3_9": 6987854601570607929
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
